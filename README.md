@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I am Alaa Fathalla
 
-<!--
-**Alaafathalla/Alaafathalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer working with React, Next.js and TypeScript.
 
-Here are some ideas to get you started:
+I build web interfaces, dashboards and interactive browser experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[View my portfolio](https://alaafathalla-portfolio.vercel.app/)
+
+## Selected projects
+
+- [DriveX](https://github.com/Alaafathalla/drivex): automotive marketplace demo.
+- [FitAI Coach](https://github.com/Alaafathalla/fit-ai): fitness dashboard with a local demo API.
+- [Fruit Slash 3D](https://github.com/Alaafathalla/fruits): interactive Three.js browser game.
+- [Foodzy](https://github.com/Alaafathalla/Foodzy): grocery storefront interface.
+
+## Tools I use
+
+React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS and Git.
